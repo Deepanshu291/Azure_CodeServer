@@ -9,6 +9,7 @@ from azure.mgmt.resource import ResourceManagementClient
 from azure.identity import DefaultAzureCredential
 import threading
 
+
 subId = 
 location = "centralindia"
 PORT = 8080
