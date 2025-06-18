@@ -1,3 +1,7 @@
 env/
 venv/
 .env
+
+main.py
+api/
+azure/
